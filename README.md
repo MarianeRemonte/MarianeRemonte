@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @MarianeRemonte
-- 👀 I’m interested in different cultures and games
-- 🌱 I’m currently learning how to program and some languages (French and italian)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Any
-- ⚡ Fun fact: Already knows 3 languages: Portuguese (Mother language), English (Fluent) and Spanish (Advanced) 
+<h1 align="center"> Bem-vindos ao meu perfil! </h1>
+<br>
+<p>Me chamo <h5>Mariane</h5>, tenho 16 anos e estou cursando o Ensino Médio técnico integrado do <h5>Marista Escola Social Irmão Acácio</h5> com curso <h5>Informática para a internet"</h5></p>
+<p>Atual mente falo 3 idomas e estou aprendendo mais 2:</p>
+<br>
+| Falo                      | Aprendendo  | Pretendo aprender |
+|:-------------------------:|:-----------:|:-----------------:|
+| Português(nativo)         |  Italiano   | Russo             |
+| Inglês(autodidata)        |  Francês    | Alemão            |
+| Espanhol(autodidata)      |             | Mandarim          |
+<br>
+<p>Estou aprendendo HTML5, JavaScript e CSS3</p>
 
-<!---
-MarianeRemonte/MarianeRemonte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<style>
+  h5{
+    color: pink
+  }
+</style>
