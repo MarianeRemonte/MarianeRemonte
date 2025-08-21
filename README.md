@@ -1,7 +1,7 @@
 <h1 align="center"> Bem-vindos ao meu perfil! </h1>
 <br>
-<p>Me chamo Mariane, tenho 16 anos e estou cursando o Ensino Médio técnico integrado do Marista Escola Social Irmão Acácio com curso Informática para a internet"</p>
-<p>Atual mente falo 3 idomas e estou aprendendo mais 2:</p>
+<p>Me chamo Mariane, tenho 16 anos e estou cursando o Ensino Médio técnico integrado do Marista Escola Social Irmão Acácio com curso Informática para a internet</p>
+<p>Atualmente falo 3 idomas e estou aprendendo mais 2:</p>
 <br>
 <table>
   <tr>
