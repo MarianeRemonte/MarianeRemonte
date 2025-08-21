@@ -30,4 +30,4 @@
 <br>
 <hr>
 <h2>Um pontinho rosa e laranja em meio de tanto preto e branco!</h2>
-![img]("https://tse2.mm.bing.net/th/id/OIP.1wzebCTkGxhE3HPdFftGlQHaHT?w=498&h=491&rs=1&pid=ImgDetMain&o=7&rm=3")
+![img](https://tse2.mm.bing.net/th/id/OIP.1wzebCTkGxhE3HPdFftGlQHaHT?w=498&h=491&rs=1&pid=ImgDetMain&o=7&rm=3)
