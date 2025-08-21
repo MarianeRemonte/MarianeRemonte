@@ -2,6 +2,8 @@
 <br>
 <p>Me chamo Mariane, tenho 16 anos e estou cursando o Ensino Médio técnico integrado do Marista Escola Social Irmão Acácio com curso Informática para a internet</p>
 <p>Atualmente falo 3 idomas e estou aprendendo mais 2:</p>
+<p>Programadora em formação</p>
+<hr>
 <br>
 <table>
   <tr>
@@ -26,5 +28,6 @@
   </tr>
 </table>
 <br>
-<p>Estou aprendendo HTML5, JavaScript e CSS3</p>
-
+<hr>
+<h2>Um pontinho rosa e laranja em meio de tanto preto e branco!</h2>
+![img]("https://tse2.mm.bing.net/th/id/OIP.1wzebCTkGxhE3HPdFftGlQHaHT?w=498&h=491&rs=1&pid=ImgDetMain&o=7&rm=3")
